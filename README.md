@@ -40,9 +40,6 @@ Access the live version of the project here: [Brainwave_AI06 Live Demo](https://
 - Multilingual support for local communities
 - AI-driven automated resource routing
 
-## 👥 Team & Contributors
-
-This project is developed by participants of Infothon 2.0. Contributions welcome via pull requests or discussions.
 
 ---
 
